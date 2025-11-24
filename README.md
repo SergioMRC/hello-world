@@ -11,3 +11,13 @@ I'm a determined and passionate developer-in-training, making a significant care
 **I'm driven by a passion for building powerful and elegant digital experiences.**
 
 ---
+
+### -> My Current Mission
+
+I am on a focused mission to become a full-stack web developer. My learning is intensive and hands-on, with a clear roadmap.
+
+-    **Actively Learning:** Immersing myself in the fundamentals with **HTML, CSS, and JavaScript**.
+-    **Future Focus:** Diving deep into the **MERN stack** (MongoDB, Express.js, React, Node.js) to become a complete developer.
+-    **Ultimate Goal:** To work as a remote/freelance developer, or build my own projects as an indie developer.
+
+---
