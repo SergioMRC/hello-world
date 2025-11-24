@@ -42,3 +42,12 @@ Here are the tools and technologies I'm working with on my journey.
 </p>
 
 ---
+
+### -> Let's Connect
+
+I'm always open to connecting with fellow developers, mentors, and collaborators. You can find me here:
+
+-   **LinkedIn:** `linkedin.com/in/kozhan`
+-   **GitHub:** `github.com/SergioMRC`
+
+<br>
