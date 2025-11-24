@@ -51,3 +51,5 @@ I'm always open to connecting with fellow developers, mentors, and collaborators
 -   **GitHub:** `github.com/SergioMRC`
 
 <br>
+
+> ### "Rebuilding my life, one line of code at a time."
